@@ -1,0 +1,41 @@
+#mainPresentationPage {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    color : #958fff;
+}
+
+#mainPresentationPage h1 {
+    margin: 20% 0 0 0;
+    font-size: 100px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+#mainPresentationPage h2 {
+    margin: 0 0 25% 0;
+    font-size: 70px;
+    font-weight: bold;
+}
+
+#secondPresentationPage {
+    display: flex;
+    flex-direction: column;
+    color : white;
+    background-color: #342BF0;
+    margin: 0 0 20px 0;
+    border-radius: 5px;
+}
+
+#secondPresentationPage h3 {
+    margin: 10px 0 10px 10px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#secondPresentationPage p {
+    margin: 0 0 0 10px;
+    font-size: 16px;
+}
